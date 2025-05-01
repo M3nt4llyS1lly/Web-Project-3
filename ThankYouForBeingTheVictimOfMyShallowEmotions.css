@@ -1,0 +1,45 @@
+/* 
+i chose a cool color scheme consisting of green and blue to provide a colorful but calm look to it also because the colors green and blue is 
+often associated with the earth.
+*/
+body {
+    background-color:  #c2e9bf;
+}
+p {
+    font-size: 40px;
+    color: #76769b
+}
+h1 {
+    font-size: 90px;
+    color: #4f4f98
+}
+h2 {
+    font-size: 70px;
+    color: #4f4f98
+}
+#nav-link {
+    padding: 10px;
+    margin: 8px;
+    border: 4px;
+    background-color: #74916e7b;
+    color: #3a5535;
+    display: inline;
+    font-size: 30px;
+    border-radius: 5%;
+}
+h3 {
+    font-size: 40px;
+    background-color:#a9cba798;
+    color: #76769b 
+}
+h4 {
+    font-size: 40px;
+    background-color:#b3d5b198;
+    color: #76769b 
+}
+
+footer {
+    background-color: #8abfbe;
+    text-align: center;
+    margin: 0px;
+}
